@@ -1,0 +1,47 @@
+.fondo{
+	background: url(imagenescss/blanco.jpg );
+	background-color: #000000;
+	background-repeat: no-repeat ;
+	background-size: cover;
+	height: 200px;
+
+}
+.btn-info{
+	background-color: #FF0000;
+}
+
+.blanco{
+	color: #000000;
+
+}
+
+.blanca{
+	color: white;
+}
+.color{
+	background-color: 	#000000;
+	border-style: none;
+	background: url(imagenescss/blanco2.jpg );
+		background-repeat: no-repeat ;
+	
+}
+.centrado{
+	text-orientation: center;
+
+}
+.borde{
+	border-color: #000000;
+	border-style: solid;
+}
+.frame{
+		background-color: 	#000000;
+	border-style: none;
+	background: url(imagenescss/azul.jpg );
+	
+}
+.frame2{
+		background-color: 	#000000;
+	border-style: none;
+	
+	
+}
